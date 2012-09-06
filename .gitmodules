@@ -1,0 +1,15 @@
+[submodule "dev/puppet/modules/subm"]
+	path = dev/puppet/modules/subm
+	url = git://github.com/example42/puppet-modules.git
+[submodule "dev/puppet/modules/puppi"]
+	path = dev/puppet/modules/puppi
+	url = git://github.com/example42/puppi.git
+[submodule "dev/puppet/modules/ntp"]
+	path = dev/puppet/modules/ntp
+	url = git://github.com/example42/puppet-ntp.git
+[submodule "dev/puppet/modules/apache"]
+	path = dev/puppet/modules/apache
+	url = git://github.com/example42/puppet-apache.git
+[submodule "dev/puppet/modules/zendserver"]
+	path = dev/puppet/modules/zendserver
+	url = git@github.com:Enrise/Puppet-zendserver.git
